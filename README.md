@@ -172,9 +172,7 @@ Don't want to install Python?
 
 Download the latest Windows executable from:
 
-### 📥 Download RentFlow
-
-https://github.com/ShadowKami/RentFlow/releases/latest
+### [📥 Download RentFlow](https://github.com/ShadowKamiDev/RentFlow/releases/)
 
 Download → Run → Start managing your properties.
 
